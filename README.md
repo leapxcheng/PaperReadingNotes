@@ -2,7 +2,7 @@
 
 This part of the repository mainly refers to [Awesome-LLM-KG](https://github.com/RManLuo/Awesome-LLM-KG).
 - The roadmap paper: [Unifying Large Language Models and Knowledge Graphs: A Roadmap](https://arxiv.org/abs/2306.08302)
-- The chinese summary: [Link](https://mp.weixin.qq.com/s/pjkLp0NsT9EtQye3c6CA6Q)
+- The chinese summary: [统一大型语言模型和知识图谱:路线图](https://mp.weixin.qq.com/s/pjkLp0NsT9EtQye3c6CA6Q)
 
 The summarization of interaction between large language model (LLMs) and knowledge graph (KGs) is illustrated as follows.
 ![](imgs/Summaization.png)

@@ -9,5 +9,6 @@ The summarization of interaction between large language model (LLMs) and knowled
 This part can refer to [awesome-chatgbt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) and [awesome-chatgbt-prompts](https://github.com/f/awesome-chatgpt-prompts).
 
 ## Chain of thought
+This part can refer to [Chain-of-ThoughtsPapers](https://github.com/Timothyxxx/Chain-of-ThoughtsPapers).
 
 ## Tool learning

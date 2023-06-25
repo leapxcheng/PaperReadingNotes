@@ -13,7 +13,7 @@ This part can refer to [awesome-chatgbt-prompts-zh](https://github.com/PlexPt/aw
 ## Chain of thought
 This part can refer to [Chain-of-ThoughtsPapers](https://github.com/Timothyxxx/Chain-of-ThoughtsPapers).
 
-- Active Prompting with Chain-of-Thought for Large Language Models [paper]](https://arxiv.org/pdf/2302.12246.pdf) [blog](https://medium.com/papers-i-found/e5-active-prompting-with-cot-for-llm-343f104bf7b2) [code](https://github.com/shizhediao/active-prompt)
+- Active Prompting with Chain-of-Thought for Large Language Models [paper](https://arxiv.org/pdf/2302.12246.pdf) [blog](https://medium.com/papers-i-found/e5-active-prompting-with-cot-for-llm-343f104bf7b2) [code](https://github.com/shizhediao/active-prompt)
 
 
 ## Tool learning

@@ -13,7 +13,7 @@ This part can refer to [awesome-chatgbt-prompts-zh](https://github.com/PlexPt/aw
 ## Chain of thought
 This part can refer to [Chain-of-ThoughtsPapers](https://github.com/Timothyxxx/Chain-of-ThoughtsPapers).
 
-1. **Active Prompting with Chain-of-Thought for Large Language Models.** [[paper](https://arxiv.org/pdf/2302.12246.pdf)] [[blog](https://medium.com/papers-i-found/e5-active-prompting-with-cot-for-llm-343f104bf7b2)] [[code](https://github.com/shizhediao/active-prompt)]
+1. **Active Prompting with Chain-of-Thought for Large Language Models.** [[paper](https://arxiv.org/pdf/2302.12246.pdf)] [[blog](https://medium.com/papers-i-found/e5-active-prompting-with-cot-for-llm-343f104bf7b2)] [[code](https://github.com/shizhediao/active-prompt)] [[notes](notes/Active-Prompt.md)]
 
 - Uncertainty measure to identify the examples to be annotated for CoT enhances reasoning capabilities of LLMs.
 
